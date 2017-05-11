@@ -1,0 +1,79 @@
+h1 {
+
+}
+
+h2 {
+  text-align: center;
+  line-height: 22.4px;
+
+
+}
+
+h3 {
+  text-align:center;
+  font-size: .875em;
+  line-height: 6px;
+
+ }
+
+h4 {
+    font-weight: bold;
+    background-color:
+}
+
+p {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+a {
+
+}
+
+img {
+
+}
+
+.head {
+  height: 0;
+  margin-top: 0;
+  margin-left: 0;
+  margin-bottom: 1096;
+}
+
+.jumbotron {
+  margin: 16800;
+  border: 1;
+  padding: 0;
+  width: 1343;
+  height: 93;
+}
+
+.sidebar {
+  height: 2185;
+  width: 176;
+  border: 1;
+  float: left;
+  background-color: grey;
+  border-color: black;
+  padding: 3;
+  text-align: left;
+}
+
+.container #main {
+  margin: 0;
+  border: 1;
+
+}
+
+.greenBox {
+  background-color: #f5fffa ;
+
+}
